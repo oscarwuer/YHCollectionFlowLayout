@@ -16,7 +16,6 @@
 
 @property (nonatomic, strong) UICollectionView *collectionView;
 @property (nonatomic, strong) YHCollectionFlowLayout *layout;
-@property (nonatomic, assign) NSInteger movieNumber;
 
 @end
 
