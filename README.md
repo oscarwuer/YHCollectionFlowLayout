@@ -2,7 +2,7 @@
 类似于香奈儿首页样式，视差效果
 
 ### 效果图
-![效果图](http://7xp0ch.com1.z0.glb.clouddn.com/luolilow.gif)
+![效果图]()
 
 ### 核心文件
 * FlowLayout
